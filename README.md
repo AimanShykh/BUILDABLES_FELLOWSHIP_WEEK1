@@ -1,16 +1,18 @@
-**AI Text Summarizer**
+***AI Text Summarizer***
 
-Project Overview
+*Project Overview*
 
-This project is an AI-powered text summarization app that helps users condense long articles, documents, or reports into concise and easy-to-read summaries.
+This project is an AI text summarization app that helps users summarize long articles, documents, or reports into concise and easy-to-read summaries.
 
-Problem Statement
+*Problem Statement*
 
-Reading lengthy text takes time and effort, especially for students, researchers, and professionals. Manually summarizing is often slow and inefficient.
+Reading lengthy text takes time and effort, especially for students, researchers, and professionals. Manually summarizing is also slow and inefficient.
 
-Solution
+*Solution*
 
-This app uses Natural Language Processing (NLP) models to automatically generate summaries, saving users time and improving productiviFeatures
+This app uses  models to automatically generate summaries, saving users time and improving productivity
+
+*Features*
 
 Upload .txt or .pdf files for summarization
 
